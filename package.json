@@ -1,0 +1,24 @@
+{
+  "name": "311_wk4_day2_prework",
+  "version": "1.0.0",
+  "description": "311 Week4 Day2 Prework",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/capatterson1970/311_wk4_day2_prework.git"
+  },
+  "author": "Clayton Patterson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/capatterson1970/311_wk4_day2_prework/issues"
+  },
+  "homepage": "https://github.com/capatterson1970/311_wk4_day2_prework#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.4"
+  }
+}
